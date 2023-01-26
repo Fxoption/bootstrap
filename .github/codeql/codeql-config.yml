@@ -1,3 +1,3 @@
-name: "CodeQL config"
+name: "recovery"
 paths-ignore:
   - dist
